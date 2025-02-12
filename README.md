@@ -47,9 +47,6 @@ weatherApiKey = 'your_api_key_here'
 ## Contribution
 Feel free to fork this repository and make improvements. Pull requests are welcome!
 
-## License
-This project is open-source and available under the MIT License.
-
 ---
 Developed by Yameen Munir
 
